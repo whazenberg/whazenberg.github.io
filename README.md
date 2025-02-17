@@ -1,3 +1,3 @@
 # Hazenberg IT website
 
-Repo for hazenbergit.{nl,com} website
+Repo for hazenbergit.nl website
