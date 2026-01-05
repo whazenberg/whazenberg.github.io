@@ -1,0 +1,9 @@
+/* Hide the entire header bar */
+.md-header {
+  display: none !important;
+}
+
+.logo-img {
+  width: 75%; /* Resize to 50% of original width */
+  height: auto; /* Maintain aspect ratio */
+}
